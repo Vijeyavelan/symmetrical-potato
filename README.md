@@ -11,6 +11,7 @@ My First Repository
 This is a sentence
 
 *Italic*
+
 **Bold**
 
 - bulletin
