@@ -1,4 +1,4 @@
-# symmetrical-potato
+### symmetrical-potato
 
 My First Repository 
 
